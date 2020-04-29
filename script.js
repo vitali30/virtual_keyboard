@@ -6,7 +6,7 @@ let keys = new Map ([
     ["Semicolon", ";"], ["Quote", "'"], ["Enter", "Enter"], ["ShiftLeft", "Shift"], ["KeyZ", "Z"], ["KeyX", "X"], ["KeyC", "C"], ["KeyV", "V"], ["KeyB", "B"], 
     ["KeyN", "N"], ["KeyM", "M"], ["Comma", ","], ["Period", "."], ["Slash", "/"], ["ShiftRight", "Shift"], ["ArrowUp", '▲'], ["ControlLeft", "Control"], 
     ["AltLeft", "Alt"], ["Space", " "], ["AltRight", "Alt"], ["ControlRight", "Control"], ["ArrowLeft", '◄'], ["ArrowDown", "▼"], ["ArrowRight", "►"]
-]);
+]); 
 
 let keysRus = new Map ([
     [ "Backquote", "Ё"], ["Digit1", "1"], ["Digit2", "2"], ["Digit3", "3"], ["Digit4", "4"], ["Digit5", "5"], ["Digit6", "6"], ["Digit7", "7"], ["Digit8", "8"], 
